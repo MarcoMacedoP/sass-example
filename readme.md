@@ -1,7 +1,8 @@
-#Sass example
+# Sass example
+
 Ejemplo de como usar SASS de una manera sencilla
 
-##Ejecucion
+## Ejecucion
 
 ```
     sass --watch ./styles/master.scss master.css
